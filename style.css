@@ -59,3 +59,7 @@ footer{
     letter-spacing: 5px;
     text-transform: uppercase;
 }
+footer>a{
+    text-decoration: none;
+    
+}
